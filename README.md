@@ -14,66 +14,71 @@ Takım Flutter 141
 
 ## Ürün İsmi
 
---??--
+--Meow Journal--
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 141 Miro Backlog Board](https://miro.com/app/board/uXjVM-tLZaw=/?share_link_id=678493020143)
 
 ## Ürün Açıklaması
 
-??
+Meow Journal, günlük tutma deneyiminizi tamamen yeni bir seviyeye taşıyan interaktif bir telefon uygulamasıdır. Kedilerden ilham alan bu uygulama, kullanıcılarına bir günlük gibi kullanabilecekleri özel bir platform sunar. Hem günlük yazılarınızı kaydedebilir hem de günlük alışkanlıklarınızı takip edebilirsiniz.
+Meow Journal, göz alıcı tasarımı ve kullanıcı dostu arayüzüyle öne çıkar. Uygulamanın şablonları ve özelleştirilebilir kedi temaları, günlük yazılarınızı kişiselleştirmenize yardımcı olur ve size ilham verir. Her gününüzü özel bir şekilde kaydedebilir, anılarınızı ve duygularınızı güvenli bir şekilde saklayabilirsiniz.
+Ayrıca Meow Journal, habit tracker (alışkanlık takibi) özelliğiyle size daha sağlıklı bir yaşam tarzı benimseme konusunda destek olur. Günlük alışkanlıklarınızı belirleyebilir, hedeflerinizi takip edebilir ve ilerlemenizi görselleştirebilirsiniz. Kedinizin sizi motive ettiği bu süreçte, kendinizi geliştirmek için mükemmel bir araç elinizin altında olacak.
+Uygulamanın to-do list (yapılacaklar listesi) özelliğiyle ise günlük görevlerinizi kolayca yönetebilirsiniz. Önceliklerinizi belirleyebilir, görevlerinizi kategorilere ayırabilir ve tamamladığınızda tatmin hissi yaşayabilirsiniz. Meow Journal, sizi düzenli ve verimli bir şekilde yaşamaya teşvik ederken, aynı zamanda stresinizi azaltmanıza yardımcı olacak pratik bir araç sunar.
 
 
-- **Uygulama birincil fonksiyonu**: ??
+- **Uygulama birincil fonksiyonu**: Anıları ve Duyguları Saklama: Uygulama, yazdığınız günlüklerinizi güvenli bir şekilde saklar. Anılarınızı, duygularınızı ve deneyimlerinizi zamanla geri dönüp hatırlamak için güvenilir bir platform sunar.
 
-- **Uygulama ikincil fonksiyonu**: ??
+- **Uygulama ikincil fonksiyonu**: Günlük Yazma: Meow Journal, günlük yazılarınızı kaydetmenizi sağlar. İster duygularınızı paylaşın, ister günlük olayları hatırlayın, isterseniz de hayallerinizi veya ilham verici düşüncelerinizi yazın. İstediğiniz kadar uzun veya kısa yazabilirsiniz.
 
 ## Ürün Özellikleri
 
-- ??
-- ??
-- ??
-- ??
+- Duygularınızı, düşüncelerinizi ve deneyimlerinizi günlüklerde kaydeder ve özel anılarınızı saklar.
+- Hedefler belirleyin, ilerlemenizi izleyin ve daha sağlıklı bir yaşam tarzı oluşturmak için alışkanlıklarınızı takip eder
+
 
 ## Hedef Kitle
 
-- ??
-- ??
+- Günlük Tutmayı Sevenler: Meow Journal, günlük tutmayı seven ve düzenli olarak duygularını, deneyimlerini veya günlük olayları yazmak isteyen kişiler için idealdir. Günlük tutma alışkanlığına sahip olanlar veya günlük yazma pratiği yapmak isteyenler için cazip bir seçenektir
+- Alışkanlık Takip Etme İsteyenler: Alışkanlık takibi özelliği, kendi kendine gelişim konusunda ilerlemek veya sağlıklı alışkanlıklar edinmek isteyenler için önemli bir fayda sağlar. Bu özellikten yararlanmak isteyen kişiler, hedeflerini belirlemek, ilerlemelerini izlemek ve alışkanlıklarını sürekli olarak geliştirmek için uygulamayı tercih edebilirler.
+- Görev Yönetimi İhtiyacı Olanlar: Meow Journal'ın to-do listesi özelliği, günlük görevleri organize etmek, önceliklendirmek ve tamamlanmış görevleri takip etmek isteyen herkes için faydalıdır. İşlerini düzenlemek, proje yönetimi yapmak veya sıralamalarını belirlemek isteyen kullanıcılar bu özelliği değerlendirebilirler.
+- Kişisel Gelişim ve Stres Yönetimi Amaçlayanlar: Meow Journal, kullanıcıların kendilerini geliştirmelerine ve streslerini yönetmelerine yardımcı olacak bir araç sunar. Günlük yazma, duyguları ifade etme, düşünceleri organize etme ve olumlu alışkanlıklar geliştirme gibi özellikler, kişisel gelişim ve stres azaltma hedefleri olan kullanıcılar için idealdir.
 
 
 ## Juriye Not
 
-??
+
 
 
 ---
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 10 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve grup üyelerine ulaşmadaki gecikmeler dikkate alındığında ilk sprint'in 10 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [daily scrum-sprint 1.docx](https://github.com/zeynep-gokdemir/OUAbootcamp/files/11782521/daily.scrum-sprint.1.docx)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+
+![sprint](https://github.com/zeynep-gokdemir/OUAbootcamp/assets/113248383/f7e53634-02e3-4460-ac65-d12f121e7d34)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Alınan kararlar: Final haftası sebebiyle takımı toplamak zaman aldı. Bu sprintte aktif olan üyelerle tanışılmış ve WhatsApp grubu kurulmuştur. Ürün hakkında beyin fırtınası yapılmış ve ürün fikri bulunmuştur. Sprint Review katılımcıları: İdil Salihoğlu, Zeynep Gökdemir
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
+  - Rollere karar verilmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - Sonraki sprintte aktif Flutter kodu yazma adımına geçiş hedeflenmiştir.
  
 
 
@@ -81,65 +86,55 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 141 Miro Backlog Board](https://miro.com/app/board/uXjVM-tLZaw=/?share_link_id=7937731711)
 
 ---
 
 # Sprint 2
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+- **Daily Scrum**:
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2022-05-22%2019_25_30-Window.png) 
+- **Sprint board update**: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+- **Ürün Durumu**:
+  
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+ 
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  
 
 
 ---
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
 
 ---
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
+- **Daily Scrum**: 
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
+- **Sprint board update**: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
+- **Ürün Durumu**: 
 
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  
 
 
 ---
